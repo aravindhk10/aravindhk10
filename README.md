@@ -1,5 +1,2 @@
 - 👋 Hi, I’m Aravind
-- 👀 I’m interested in Flutter
-- 🌱 I’m currently learning React.Js
-- 💞️ I’m looking to collaborate on any Flutter project
 - 📫 How to reach me aravindhk10@gmail.com

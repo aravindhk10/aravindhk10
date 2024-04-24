@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Aravind
+- Currently Learning Django
 - 📫 How to reach me aravindhk10@gmail.com

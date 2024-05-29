@@ -1,3 +1,5 @@
 - 👋 Hi, I’m Aravind
+- working on improving DSA
+- HTML , CSS and JS
 - Currently Learning Django
 - 📫 How to reach me aravindhk10@gmail.com

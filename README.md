@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aravind
 - working on improving DSA
-- HTML , CSS and JS
+- HTML , CSS and JS, Bootstrap, Jquery, React
 - Currently Learning Django
 - 📫 How to reach me aravindhk10@gmail.com
